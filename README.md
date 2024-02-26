@@ -44,7 +44,11 @@ Origem: conversa com o Bing, 25/11/2023
 - Modelo Recomendado para inicio "GPT1": [OpenAI GPT (huggingface.co)](https://huggingface.co/docs/transformers/main/en/model_doc/openai-gpt)
 
 - Link para o modelo GPT-2: [OpenAI GPT2](https://huggingface.co/docs/transformers/main/en/model_doc/gpt2)
-  
+
+- [Modelo EleutherAI/gpt-neox-20b - Página de download](https://huggingface.co/EleutherAI/gpt-neox-20b/tree/main)
+
+- [Bert-base-portuguese-cased - Página de download](https://huggingface.co/neuralmind/bert-base-portuguese-cased/tree/main)
+- [Luciano/bertimbau-large-lener_br - Modelo com mais treinamento - Página de download](https://huggingface.co/Luciano/bertimbau-large-lener_br)
   
   
 
@@ -70,4 +74,3 @@ Origem: conversa com o Bing, 25/11/2023
 
 - [NLP Projects with HuggingFace Tutorial 3- Text Generation with GPT2 Model - YouTube](https://www.youtube.com/watch?v=7O5ZKtJ99lc)
 
-- 
