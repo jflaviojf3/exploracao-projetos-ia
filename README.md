@@ -73,4 +73,6 @@ Origem: conversa com o Bing, 25/11/2023
 - [Getting Started With Hugging Face in 15 Minutes | Transformers, Pipeline, Tokenizer, Models - YouTube](https://www.youtube.com/watch?v=QEaBAZQCtwE)
 
 - [NLP Projects with HuggingFace Tutorial 3- Text Generation with GPT2 Model - YouTube](https://www.youtube.com/watch?v=7O5ZKtJ99lc)
+ 
+- [Como fazer um FINE - TUNING em um LLM (Large Language Models) com seus próprios dados](https://www.youtube.com/watch?v=Q0rh6O35djI)
 
