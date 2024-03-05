@@ -76,3 +76,5 @@ Origem: conversa com o Bing, 25/11/2023
  
 - [Como fazer um FINE - TUNING em um LLM (Large Language Models) com seus próprios dados](https://www.youtube.com/watch?v=Q0rh6O35djI)
 
+- [Videos sobe treinamento de IA e outros exemplos](https://www.youtube.com/@Prof.FabioSantos/videos)
+
