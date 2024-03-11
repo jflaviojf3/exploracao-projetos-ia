@@ -33,7 +33,7 @@ Origem: conversa com o Bing, 25/11/2023
 (5) Treine seu modelo de ML com o TensorFlow | Microsoft Learn. https://learn.microsoft.com/pt-br/windows/ai/windows-ml/tutorials/tensorflow-train-model.
 ```
 
-#### Procurando no portal Nvidia e Huggingface:
+#### Procurando no portal Nvidia, Huggingface e outros:
 
 - Artigo sobre modelos pré treinados: [O que é um Modelo de AI Pré-Treinado? | Blog da NVIDIA](https://blog.nvidia.com.br/2023/01/11/o-que-e-um-modelo-de-ai-pre-treinado/)
 
@@ -49,7 +49,7 @@ Origem: conversa com o Bing, 25/11/2023
 
 - [Bert-base-portuguese-cased - Página de download](https://huggingface.co/neuralmind/bert-base-portuguese-cased/tree/main)
 - [Luciano/bertimbau-large-lener_br - Modelo com mais treinamento - Página de download](https://huggingface.co/Luciano/bertimbau-large-lener_br)
-  
+- [Repositorio llama com interface chatGPT local com api, olhar outros links por ter finetunning](https://github.com/getumbrel/llama-gpt)
   
 
 #### Videos e Exemplos de como usar os Modelos:
