@@ -78,3 +78,18 @@ Origem: conversa com o Bing, 25/11/2023
 
 - [Videos sobe treinamento de IA e outros exemplos](https://www.youtube.com/@Prof.FabioSantos/videos)
 
+#### Material de pesquisa para solução em OCR:
+```Mesmo utilizando bibliotecas python (Fitz, PyPDF2, pdfplumber) para extração em pdfs de texto, em alguns documentos com fontes diferentes ou formatação em alguns caracteres, essas lib mostram alguns erros.```
+
+``Outra Abordagem é usar a lib do Tesseract que realiza alguns calculos de IA para leitura de imagem e transformar em texto, porém foi ressaltado que o tempo de processamento e abordagem ainda não é 100% eficas, mesmo tendo resultados melhores do que as libs python``
+
+``Então resta buscar outras opções: 1º - (Rapida e Cara) Como consumir apis do Google, Microsoft e AWS, 2º - (Lenta e Barata) Buscar por modelos de IA que realizem essa tarefa, ou treinar um modelo de ML para aperfeiçoar algum outro modelo (Finetuning) ``
+
+ - [APIs: Solução de terceiros (provavelmente mais barato)](https://ocr.space/ocrapi)
+ - [APIs: OCR do Google Claud, usando modelo de IA Google Vision](https://cloud.google.com/use-cases/ocr?hl=pt-BR#common-uses)
+ - [APIs: Solução da AWS Rekognition Detecting Text](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html) 
+ - [Finetuning: Artigo do medium que usou algumas ferramentas, mas optou pela AWS, pode atender o nosso caso](https://medium.com/senior/deep-learning-e-ocr-reconhecimento-de-documentos-76c580ca93b1)
+- [APIs: Solução da Microsoft, possui teste gratuito](https://learn.microsoft.com/pt-br/azure/ai-services/computer-vision/overview-ocr) 
+- [APIs: Solução da AWS Amazon Textract, possui teste gratuito](https://aws.amazon.com/pt/textract/)
+
+- [Modelos de IA no Hugginfaces, Google OCR](https://huggingface.co/google/pix2struct-ocrvqa-large)
