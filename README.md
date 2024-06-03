@@ -74,21 +74,23 @@ Origem: conversa com o Bing, 25/11/2023
  
 
 #### Vídeos de Orientação para Treinamento e Criação de LLMs
-- [Vídeo: Criando um LLM do Zero](https://www.youtube.com/watch?v=LphBQB1amrw)
+- [VIDEO: Criando um LLM do Zero](https://www.youtube.com/watch?v=LphBQB1amrw)
 
-- [Vídeo: Como fazer um FINE - TUNING em um LLM (Large Language Models) com seus próprios dados](https://www.youtube.com/watch?v=Q0rh6O35djI)
+- [VIDEO: Como fazer um FINE - TUNING em um LLM (Large Language Models) com seus próprios dados](https://www.youtube.com/watch?v=Q0rh6O35djI)
 
 - [ARTIGO: Criando um LLM – modelo de linguagem de grande escala – do zero com Transformers](https://imasters.com.br/codigo/criando-um-llm-do-zero-com-transformers)
 
-- [Vídeos: sobre treinamento de IA e outros exemplos - PROF. FABIO SANTOS](https://www.youtube.com/playlist?list=PL-LIyhnUCPkGdj9umESeimOfWctErNVzH)
+- [VIDEOS: sobre treinamento de IA e outros exemplos - PROF. FABIO SANTOS](https://www.youtube.com/playlist?list=PL-LIyhnUCPkGdj9umESeimOfWctErNVzH)
 
-- [Vídeo: LLAMA 3: Como fazer um FINE TUNE com UNSLOTH e um Dataset Próprio](https://youtu.be/hzASj-mVlOs?si=nTHUnB7mqP92VFRB)
+- [VIDEO: LLAMA 3: Como fazer um FINE TUNE com UNSLOTH e um Dataset Próprio](https://youtu.be/hzASj-mVlOs?si=nTHUnB7mqP92VFRB)
 
 - [ARTIGO: Entendendo o processo de Fine Tuning com LoRA](https://dimmymagalhaes.medium.com/entendo-o-processo-de-fine-tuning-com-lora-82c4945aff76)
 
 - [ARTIGO: Fine-tuning no portal META](https://llama.meta.com/docs/how-to-guides/fine-tuning/)
 
 - [CURSO: DSA - IA Generativa e LLMs Para Processamento de Linguagem Natural](https://www.datascienceacademy.com.br/course/ia-generativa-e-llms-para-processamento-de-linguagem-natural)
+
+- [VIDEO: Run a LLM on your WINDOWS PC | Convert Hugging face model to GGUF | Quantization | GGUF]([https://www.datascienceacademy.com.br/course/ia-generativa-e-llms-para-processamento-de-linguagem-natural](https://www.youtube.com/watch?v=e3iimDDaaEY&ab_channel=AyaanshRoy))
 
 #### Material de pesquisa para solução em OCR:
 ```Mesmo utilizando bibliotecas python (Fitz, PyPDF2, pdfplumber) para extração em pdfs de texto, em alguns documentos com fontes diferentes ou formatação em alguns caracteres, essas lib mostram alguns erros.```
