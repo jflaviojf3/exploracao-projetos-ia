@@ -90,7 +90,7 @@ Origem: conversa com o Bing, 25/11/2023
 
 - [CURSO: DSA - IA Generativa e LLMs Para Processamento de Linguagem Natural](https://www.datascienceacademy.com.br/course/ia-generativa-e-llms-para-processamento-de-linguagem-natural)
 
-- [VIDEO: Run a LLM on your WINDOWS PC | Convert Hugging face model to GGUF | Quantization | GGUF]([https://www.datascienceacademy.com.br/course/ia-generativa-e-llms-para-processamento-de-linguagem-natural](https://www.youtube.com/watch?v=e3iimDDaaEY&ab_channel=AyaanshRoy))
+- [VIDEO: Run a LLM on your WINDOWS PC | Convert Hugging face model to GGUF | Quantization | GGUF](https://www.youtube.com/watch?v=e3iimDDaaEY&ab_channel=AyaanshRoy)
 
 #### Material de pesquisa para solução em OCR:
 ```Mesmo utilizando bibliotecas python (Fitz, PyPDF2, pdfplumber) para extração em pdfs de texto, em alguns documentos com fontes diferentes ou formatação em alguns caracteres, essas lib mostram alguns erros.```
